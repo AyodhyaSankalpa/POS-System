@@ -206,4 +206,6 @@ The AI Report module (`admin/ai-report.php`) queries live data from the database
 
 ## 📄 License
 
-This project is for educational and internal use.
+This project is licensed under the MIT License.
+
+See the LICENSE file for more details.
