@@ -2,21 +2,6 @@
 
 A web-based Point of Sale (POS) system built with PHP and MySQL, featuring an AI-powered report generation module using the Google Gemini API.
 
----
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Database](#database)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [AI Report Module](#ai-report-module)
-- [Screenshots](#screenshots)
-
----
-
 ## ✨ Features
 
 - **Order Management** — Create and manage customer orders with tracking numbers and invoices
